@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Unifiedstr {
+class Unifiedstr {
 
   public static String toString(boolean b) {
     return b ? "True" : "False";
